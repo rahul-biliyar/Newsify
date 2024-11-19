@@ -4,7 +4,7 @@ Here's a simpler **README.md**:
 
 # AI-Powered News Reader App  
 
-This project is an AI-powered news reader application built using the **MERN stack** for our 3rd sem Web Tech course project. The app fetches news articles from external APIs and provides intelligent features like personalized recommendations and voice-controlled navigation.  
+This project is an AI-powered news reader application built using the **MERN stack** for our 3rd sem Web Tech course project. 
 
 ## Team Members  
 
